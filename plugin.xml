@@ -28,13 +28,6 @@
     <!-- / Hooks -->
 
     <!-- Vungle SDK -->
-    <resource-file src="src/ios/VungleSDK.embeddedframework/Resources/__vungle.db" />
-    <resource-file src="src/ios/VungleSDK.embeddedframework/Resources/vg_close.png" />
-    <resource-file src="src/ios/VungleSDK.embeddedframework/Resources/vg_cta.png" />
-    <resource-file src="src/ios/VungleSDK.embeddedframework/Resources/vg_mute_off.png" />
-    <resource-file src="src/ios/VungleSDK.embeddedframework/Resources/vg_mute_on.png" />
-    <resource-file src="src/ios/VungleSDK.embeddedframework/Resources/vg_privacy.png" />
-
     <framework src="src/ios/VungleSDK.embeddedframework/VungleSDK.framework" custom="true" compiler-flags="-fmodules" />
     <!-- / Vungle SDK -->
 
